@@ -8,7 +8,6 @@ export default function Newsletter() {
 
     const handleSubmit = async (e: React.FormEvent) => {
         e.preventDefault()
-        // Here you'll integrate with Supabase to store the email
         console.log('Newsletter signup:', email)
         setIsSubmitted(true)
         setEmail('')
