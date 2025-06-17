@@ -6,7 +6,6 @@ export const metadata: Metadata = {
     description: 'Read the latest posts',
 }
 
-// This would eventually fetch from your database
 const mockPosts = [
     {
         id: '1',
