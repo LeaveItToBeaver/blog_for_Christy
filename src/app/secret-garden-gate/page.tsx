@@ -1,4 +1,3 @@
-// src/app/secret-garden-gate/page.tsx
 'use client'
 
 import { useState } from 'react'
