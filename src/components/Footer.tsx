@@ -4,7 +4,7 @@ export default function Footer() {
             <div className="max-w-6xl mx-auto px-4">
                 <div className="grid md:grid-cols-3 gap-8">
                     <div>
-                        <h3 className="font-bold text-lg mb-4">Your Wife's Blog</h3>
+                        <h3 className="font-bold text-lg mb-4">Christy's Blog</h3>
                         <p className="text-gray-400">
                             Sharing stories and insights from my writing journey.
                         </p>
@@ -27,7 +27,7 @@ export default function Footer() {
                     </div>
                 </div>
                 <div className="border-t border-gray-800 mt-8 pt-8 text-center text-gray-400">
-                    <p>&copy; 2024 Your Wife's Blog. All rights reserved.</p>
+                    <p>&copy; 2024 Christy Beaver. All rights reserved.</p>
                 </div>
             </div>
         </footer>
