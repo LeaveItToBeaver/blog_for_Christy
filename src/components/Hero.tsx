@@ -8,8 +8,7 @@ export default function Hero() {
                     Welcome to My World of Words
                 </h1>
                 <p className="text-xl mb-8 max-w-2xl mx-auto">
-                    Discover captivating stories, insightful thoughts, and the latest
-                    updates from my literary journey.
+                    A place where I get to update, friends, family, and fans on my writing.
                 </p>
                 <div className="space-x-4">
                     <Link
